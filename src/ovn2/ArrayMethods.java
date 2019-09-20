@@ -16,6 +16,10 @@ public class ArrayMethods {
 		return largest;
 	}
 
+	
+	
+	
+	
 	public static boolean equals(int[] a1, int[] a2) {
 		if (a1 == null && a2 == null)
 			return true;
